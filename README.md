@@ -1,2 +1,2 @@
 # hello-world
-introduction tutorial
+introduction tutorialsome edits and description of myself
